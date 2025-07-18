@@ -89,6 +89,3 @@ You can learn more about **Cosine Similarity** [here](https://www.learndatasci.c
 
 Find **Dataset** [here](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv).
 
-## Project Poster
-
-![recomsys-readme_poster](https://github.com/kinxyo/RecomSys/assets/90744941/30381925-9b0a-4325-847e-8af255789fe6)
